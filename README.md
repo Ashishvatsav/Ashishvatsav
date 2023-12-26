@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ashishvatsav_" target="blank"><img src="https://img.shields.io/twitter/follow/ashishvatsav_?logo=twitter&style=for-the-badge" alt="ashishvatsav_" /></a> </p>
 
-- I’m currently working on learning **Frontend Development**
+- I’m currently working on learning **Full Stack Development**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
