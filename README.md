@@ -9,7 +9,7 @@
 
 - I’m currently working on learning **Full Stack Development**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **REACT**
 
 - I’m looking to collaborate on **Exciting projects**
 
