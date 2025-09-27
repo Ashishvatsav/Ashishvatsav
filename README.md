@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashishvatsav_" target="blank"><img src="https://img.shields.io/twitter/follow/ashishvatsav_?logo=twitter&style=for-the-badge" alt="ashishvatsav_" /></a> </p>
 
-- I’m currently working on learning **AI/ML**
+- I’m currently working on learning **Big Data**
 
-- 🌱 I’m currently learning **WebDev**
+- 🌱 I’m currently learning **AI/ML**
 
 - I’m looking to collaborate on **Exciting projects**
 
